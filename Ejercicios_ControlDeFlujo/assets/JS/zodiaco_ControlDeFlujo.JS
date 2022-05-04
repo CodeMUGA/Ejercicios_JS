@@ -1,0 +1,1 @@
+let signos=alert(prompt("Introduce tu mes de nacimiento"));
